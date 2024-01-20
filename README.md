@@ -1,16 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=AmmyB&color=1E90FF&label=PROFILE+VIEWS)
-<p align="center">
-  <a href="https://github.com/AmmyB">
-    <img src="https://github.com/AmmyB/AmmyB/assets/113260620/67444849-daa4-484a-acbe-a33ef258147b" alt="AmmyB" /></a>
-</p>
+
+![github-header-image](https://github.com/AmmyB/AmmyB/assets/113260620/8c1f135d-d33d-4bb6-bca4-bdb4de00cf35)
 
 <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Java%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <a href="https://github.com/AmmyB/SAW"><img center=true src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=500&pause=1000&width=435&lines=The+latest+project+-+SAW" alt="AmmyB Github" /></a>
 </p>
 
-
-<a href="https://github.com/AmmyB/SAW"><img center=true src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=The+latest+project+-+SAW" alt="AmmyB Github" /></a>
 ---
 <h3>Technologies and tools:</h3>
 <div align="center">
