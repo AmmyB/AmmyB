@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=your-github-username&color=1E90FF&label=PROFILE+VIEWS)
 <p align="center">
   <a href="https://github.com/AmmyB">
     <img src="https://github.com/AmmyB/AmmyB/assets/113260620/67444849-daa4-484a-acbe-a33ef258147b" alt="AmmyB" /></a>
